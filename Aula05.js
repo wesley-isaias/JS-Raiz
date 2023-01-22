@@ -24,3 +24,4 @@ mapa.forEach(function(value,key){
 for (let m of mapa){
     console.log(m);
 }
+
